@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Aera(An AI powered mental health companion)](aera-ai.netlify.app)
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **Web3.js**
 
 - 👨‍💻 All of my projects are available at [rishavkumarmishra-portfolio.netlify.app](rishavkumarmishra-portfolio.netlify.app)
 
