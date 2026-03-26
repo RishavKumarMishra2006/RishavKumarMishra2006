@@ -1,3 +1,12 @@
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=CCFF00&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Rishav+Mishra;Developer+from+India;I+build+super+cool+projects;Nice+to+meet+you!!!😊)
+
+
+
+**2nd Year Btech Student at Institute of Engimeering and Management, Kolkata · CSE(AI)**
+
+</div>
 <h1 align="center">Hi 👋, I'm Rishav Kumar Mishra</h1>
 <h3 align="center">Developer | AI/ML Enthusiast | MERN Stack | Future Innovator</h3>
 
