@@ -4,7 +4,7 @@
 
 
 
-**2nd Year Btech Student at Institute of Engimeering and Management, Kolkata · CSE(AI)**
+**2n Year Btech Student at Institute of Engimeering and Management, Kolkata · CSE(AI)**
 
 </div>
 <h1 align="center">Hi 👋, I'm Rishav Kumar Mishra</h1>
