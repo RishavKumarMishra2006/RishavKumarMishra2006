@@ -10,7 +10,7 @@
 <h1 align="center">Hi 👋, I'm Rishav Kumar Mishra</h1>
 <h3 align="center">Developer | AI/ML Enthusiast | MERN Stack | Future Innovator</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishavkumarmishra2006" alt="rishavkumarmishra2006" /></a> </p>
+
 
 - 🔭 I’m currently working on [Aera(An AI powered mental health companion)](aera-ai.netlify.app)
 
@@ -40,12 +40,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=RishavKumarMishra2006&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RishavKumarMishra2006&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RishavKumarMishra2006&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RishavKumarMishra2006&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RishavKumarMishra2006&limit=5&theme=dark&combine_all_yearly_contributions=true)
