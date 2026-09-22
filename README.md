@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Web3.js**
 
-- 👨‍💻 All of my projects are available at [rishavkumarmishra-portfolio.netlify.app](rishavkumarmishra-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [rishavkumarmishra-portfolio.netlify.app](https://rishavmishra.me)
 
 - 📫 How to reach me **rishavkumarmishra001@gmail.com**
 
